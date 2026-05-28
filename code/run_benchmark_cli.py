@@ -1,4 +1,4 @@
- """
+"""
 run_benchmark_cli.py — Chạy benchmark Module 1 từ command line
 ===============================================================
 Dùng khi muốn test nhanh không cần mở browser Streamlit.
