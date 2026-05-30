@@ -1,10 +1,13 @@
+# Core UI
 streamlit>=1.32.0
+
+# Video / Image processing
 opencv-python>=4.9.0
 numpy>=1.26.0
+
+# Data analysis & visualization
 pandas>=2.2.0
 plotly>=5.20.0
-imageio>=2.34.0
-imageio-ffmpeg>=0.4.9
-scikit-image>=0.22.0
-tqdm>=4.66.0
 
+# CLI progress bar
+tqdm>=4.66.0
